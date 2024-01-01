@@ -11,5 +11,4 @@
 | YELLOW | Encoder A Output |
 | WHITE | Encoder B Output |
 
-## *PID Library that I use*
-[PID_v1](https://github.com/br3ttb/Arduino-PID-Library)
+## *PID Library that I use -->* [PID_v1](https://github.com/br3ttb/Arduino-PID-Library)
