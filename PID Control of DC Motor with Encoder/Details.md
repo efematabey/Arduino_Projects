@@ -15,5 +15,5 @@
 
 ## *You can also use logic gates in order to control L298N motor drive module*
 <p align = "center">
-<img src = "https://github.com/efematabey/Arduino_Projects/assets/113831574/aa9e10b9-dbe9-4039-8eb1-4c55a7ebf9eb" width="250" height="300" />
+  <img src = "https://github.com/efematabey/Arduino_Projects/assets/113831574/aa9e10b9-dbe9-4039-8eb1-4c55a7ebf9eb" width="250" height="300" />
 
