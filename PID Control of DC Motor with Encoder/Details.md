@@ -14,5 +14,6 @@
 ## *PID Library that I use -->* [PID_v1](https://github.com/br3ttb/Arduino-PID-Library)
 
 ## *You can also use logic gates in order to control L298N motor drive module*
-<img src = "https://github.com/efematabey/Arduino_Projects/assets/113831574/aa9e10b9-dbe9-4039-8eb1-4c55a7ebf9eb" width="250" height="250" />
+<p align = "center">
+<img src = "https://github.com/efematabey/Arduino_Projects/assets/113831574/aa9e10b9-dbe9-4039-8eb1-4c55a7ebf9eb" width="250" height="300" />
 
