@@ -1,6 +1,7 @@
 # *Schematic of the Circuit*
 <p align = "center">
-  <img src = "https://github.com/efematabey/Arduino_Projects/assets/113831574/5c1cee7d-1383-4db7-a055-d2546f19be6b" width="250" height="300" />
+  <img src = "https://github.com/efematabey/Arduino_Projects/assets/113831574/5c1cee7d-1383-4db7-a055-d2546f19be6b" width="" height="" />
+
 ## *Motor pins*
 | *Color* | *Function* |
 | :---: | :---: |
