@@ -1,11 +1,11 @@
 # *Schematic of the Circuit*
-![](https://github.com/efematabey/Arduino_Projects/assets/113831574/5c1cee7d-1383-4db7-a055-d2546f19be6b)
-
+<p align = "center">
+  <img src = "https://github.com/efematabey/Arduino_Projects/assets/113831574/5c1cee7d-1383-4db7-a055-d2546f19be6b" width="250" height="300" />
 ## *Motor pins*
 | *Color* | *Function* |
 | :---: | :---: |
-| RED | Motor GND |
-| BLACK | Motor VCC |
+| RED | Motor VCC |
+| BLACK | Motor GND |
 | GREEN | Encoder GND |
 | BLUE | Encoder VCC |
 | YELLOW | Encoder A Output |
